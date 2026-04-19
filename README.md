@@ -1,4 +1,4 @@
-# 🚀 Ali Hasanov | Backend & Cybersecurity Engineer in Progress
+# 🚀 Ali Hasanov | Backend & Cybersecurity Engineer 
 
 <p align="center">
   <b>Information Security Student • Python Developer • Linux & DevOps Enthusiast</b>
